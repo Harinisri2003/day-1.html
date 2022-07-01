@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: blueviolet;
+    }
+
+.container{
+    background-color: brown ;
+    width: 100vw;
+    height: 330vh;
+    display: flex;
+    flex-direction: column;
+}
+.div-1{
+    background-color: red;
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    text-align: center;
+}
+#titleName{
+    position: absolute;
+    top: 10%;
+    width: 10%;
+    color: yellow;
+    text-size-adjust: 50px;
+}
+#titleimage{
+    height: 90vh;
+    width: 60vw;
+}
+.div-2{
+    background-color: grey;
+    width: 90vw;
+    height: 90vh;
+    border: 5px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+#favFood1{
+    position: relative;
+    font-size: 20px;
+    color: brown;
+}
+#foodDescription{
+vertical-align: bottom;
+margin: auto;
+text-align: center;
+font-size: 10px;
+color: aliceblue;
+position: relative;
+}
+#favFoodImage1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60vw;
+  height: 60vh;
+}
+.div-3{
+    background-color: goldenrod;
+    width: 90vw;
+    height: 90vh;
+    border: 5px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+}
+img{
+margin: 0px auto;
+vertical-align: bottom;
+height: 60vh;
+width: 60vw;
+}
+h1{
+color: white;
+margin: auto;
+position: relative;
+}
+P{
+color: white;
+margin: auto;
+position: relative;
+}
+.div-4{
+    background-color: yellow ;
+    width: 90vw;
+    height: 90vh;
+    border: 5px solid green;
+}
+.div-4 img{
+    height: 60vw;
+    width: 60vh;
+}

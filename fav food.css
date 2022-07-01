@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: blueviolet;
+}
+.container{
+    background-color: brown ;
+    width: 100vw;
+    height: 100vh;
+}
+.div-1{
+    background-color: red;
+    width:80vw;
+    height: 25vh;
+    border: 5px solid green;
+}
+.div-2{
+    background-color: grey;
+    width: 80vw;
+    height: 25vh;
+    border: 5px solid green;
+}
+.div-3{
+    background-color: goldenrod;
+    width:80vw;
+    height:25vh;
+    border: 5px solid green;
+    
+}
+.div-4{
+    background-color: yellow ;
+    width:80vw;
+    height:25vh;
+    border: 5px solid green;
+}
